@@ -1,7 +1,7 @@
 # Laboratório 01
-##Aluno: Lucas Hervatin Trinquinato
+## Aluno: Lucas Hervatin Trinquinato
 
-###Esse repositório contém as atividades:
+Esse repositório contém as atividades:
 1. Foodmart
 2. Google Play Store
 3. Composição para Recomendação
