@@ -1,1 +1,2 @@
-# unicamp-inf331
+# Equipe 8
+## Aluno: Lucas Hervatin Trinquinato
