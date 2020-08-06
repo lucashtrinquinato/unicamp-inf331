@@ -1,2 +1,2 @@
 # Equipe 8
-# Aluno: Lucas Hervatin Trinquinato
+## Aluno: Lucas Hervatin Trinquinato
