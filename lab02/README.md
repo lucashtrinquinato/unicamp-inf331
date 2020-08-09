@@ -6,7 +6,10 @@ Esse repositório contém as atividades:
 2. Tarefa Web Components 1
 3. Tarefa Web Components 2
 
-# Tarefa Web Components 1
+# Catálogo de componentes
+> notebook
+
+# Web Components 1
 ```html
 <dcc-trigger label="Mundo" action="message/mundo/politica" value="Notícia Mundo Política"></dcc-trigger>
 <dcc-trigger label="Brasil P" action="message/brasil/politica" value="Notícia Brasil Política"></dcc-trigger>
@@ -24,7 +27,7 @@ Esse repositório contém as atividades:
 </dcc-lively-talk>
 ```
 
-# Tarefa Web Components 2
+# Web Components 2
 ```html
 <dcc-trigger label="Próxima notícia" action="next/rss"></dcc-trigger>
 
