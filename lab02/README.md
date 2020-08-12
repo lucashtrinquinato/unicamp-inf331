@@ -7,7 +7,7 @@ Esse repositório contém as atividades:
 3. Tarefa Web Components 2
 
 # Catálogo de componentes
-> notebook
+[Notebook](https://github.com/lucashtrinquinato/unicamp-inf331/blob/master/lab02/notebook/Lucas_Trinquinato_components-01-catalog.ipynb)
 
 # Web Components 1
 ```html
