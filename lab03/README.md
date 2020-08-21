@@ -19,3 +19,5 @@ Nenhum selecionado         |  Primeiro selecionado     | Segundo selecionado    
 >[MIT App Inventor](https://github.com/lucashtrinquinato/unicamp-inf331/blob/master/lab03/app/Lab3_tarefa_3.aia)
 
 # Tarefa 4
+### Equipe 8
+>https://github.com/inf331equipe08/marketplace
